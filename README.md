@@ -1,6 +1,6 @@
 # Data Analysis
 
-##3 Education
+## Education
 
 ### Work Experience 
 
